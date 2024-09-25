@@ -1,0 +1,14 @@
+.birth-date-calendar {
+    max-width: 300px;
+    margin: 20px auto;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .birth-date-calendar h3 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 10px;
+  }

@@ -1,0 +1,147 @@
+{
+  "signos_zodiacales": [
+    {
+      "dia_inicio": "21 de marzo",
+      "dia_fin": "19 de abril",
+      "fecha_inicio": "03-21",
+      "fecha_fin": "04-19",
+      "img": "https://www.zodiacsign.com/images/aries.jpg",
+      "signo": "Aries",
+      "descripcion": "Fortalezas: Valiente, decidido, seguro, entusiasta\nDebilidades: Impaciente, agresivo, impulsivo\nA Aries le gusta: Los desafíos, la actividad física, el liderazgo\nA Aries le disgusta: La inactividad, el trabajo que no explota su potencial",
+      "fcolor": "#FF5733",
+      "scolor": "#C70039"
+    },
+    {
+      "dia_inicio": "20 de abril",
+      "dia_fin": "20 de mayo",
+      "fecha_inicio": "04-20",
+      "fecha_fin": "05-20",
+      "img": "https://www.zodiacsign.com/images/taurus.jpg",
+      "signo": "Tauro",
+      "descripcion": "Fortalezas: Confiable, paciente, práctico\nDebilidades: Terco, posesivo\nA Tauro le gusta: La estabilidad, la naturaleza, las cosas refinadas\nA Tauro le disgusta: La incertidumbre, el cambio repentino",
+      "fcolor": "#85C1E9",
+      "scolor": "#1ABC9C"
+    },
+    {
+      "dia_inicio": "21 de mayo",
+      "dia_fin": "20 de junio",
+      "fecha_inicio": "05-21",
+      "fecha_fin": "06-20",
+      "img": "https://www.zodiacsign.com/images/gemini.jpg",
+      "signo": "Géminis",
+      "descripcion": "Fortalezas: Comunicativo, adaptable, curioso\nDebilidades: Nervioso, indeciso\nA Géminis le gusta: La variedad, las conversaciones, el aprendizaje\nA Géminis le disgusta: La rutina, estar limitado",
+      "fcolor": "#F4D03F",
+      "scolor": "#F39C12"
+    },
+    {
+      "dia_inicio": "21 de junio",
+      "dia_fin": "22 de julio",
+      "fecha_inicio": "06-21",
+      "fecha_fin": "07-22",
+      "img": "https://www.zodiacsign.com/images/cancer.jpg",
+      "signo": "Cáncer",
+      "descripcion": "Fortalezas: Emotivo, protector, imaginativo\nDebilidades: Cambiante, susceptible\nA Cáncer le gusta: La familia, el hogar, el confort emocional\nA Cáncer le disgusta: La crítica, la confrontación",
+      "fcolor": "#A569BD",
+      "scolor": "#BB8FCE"
+    },
+    {
+      "dia_inicio": "23 de julio",
+      "dia_fin": "22 de agosto",
+      "fecha_inicio": "07-23",
+      "fecha_fin": "08-22",
+      "img": "https://www.zodiacsign.com/images/leo.jpg",
+      "signo": "Leo",
+      "descripcion": "Fortalezas: Creativo, apasionado, generoso\nDebilidades: Arrogante, terco\nA Leo le gusta: El protagonismo, el lujo, la diversión\nA Leo le disgusta: Sentirse ignorado, la falta de reconocimiento",
+      "fcolor": "#F1948A",
+      "scolor": "#E74C3C"
+    },
+    {
+      "dia_inicio": "23 de agosto",
+      "dia_fin": "22 de septiembre",
+      "fecha_inicio": "08-23",
+      "fecha_fin": "09-22",
+      "img": "https://www.zodiacsign.com/images/virgo.jpg",
+      "signo": "Virgo",
+      "descripcion": "Fortalezas: Analítico, práctico, detallista\nDebilidades: Crítico, tímido\nA Virgo le gusta: La limpieza, el orden, la lógica\nA Virgo le disgusta: La suciedad, la desorganización",
+      "fcolor": "#58D68D",
+      "scolor": "#28B463"
+    },
+    {
+      "dia_inicio": "23 de septiembre",
+      "dia_fin": "22 de octubre",
+      "fecha_inicio": "09-23",
+      "fecha_fin": "10-22",
+      "img": "https://www.zodiacsign.com/images/libra.jpg",
+      "signo": "Libra",
+      "descripcion": "Fortalezas: Diplomático, cooperativo, justo\nDebilidades: Indeciso, evita confrontaciones\nA Libra le gusta: El equilibrio, la armonía, la belleza\nA Libra le disgusta: La injusticia, la violencia",
+      "fcolor": "#F7DC6F",
+      "scolor": "#F1C40F"
+    },
+    {
+      "dia_inicio": "23 de octubre",
+      "dia_fin": "21 de noviembre",
+      "fecha_inicio": "10-23",
+      "fecha_fin": "11-21",
+      "img": "https://www.zodiacsign.com/images/scorpio.jpg",
+      "signo": "Escorpio",
+      "descripcion": "Fortalezas: Apasionado, valiente, determinado\nDebilidades: Desconfiado, reservado\nA Escorpio le gusta: El misterio, la lealtad\nA Escorpio le disgusta: La traición, la superficialidad",
+      "fcolor": "#D98880",
+      "scolor": "#C0392B"
+    },
+    {
+      "dia_inicio": "22 de noviembre",
+      "dia_fin": "21 de diciembre",
+      "fecha_inicio": "11-22",
+      "fecha_fin": "12-21",
+      "img": "https://www.zodiacsign.com/images/sagittarius.jpg",
+      "signo": "Sagitario",
+      "descripcion": "Fortalezas: Generoso, idealista, gran sentido del humor\nDebilidades: Promete más de lo que puede cumplir\nA Sagitario le gusta: La libertad, la filosofía, viajar\nA Sagitario le disgusta: Los detalles innecesarios, las restricciones",
+      "fcolor": "#F5B041",
+      "scolor": "#E67E22"
+    },
+    {
+      "dia_inicio": "22 de diciembre",
+      "dia_fin": "31 de diciembre",
+      "fecha_inicio": "12-22",
+      "fecha_fin": "12-31",
+      "img": "https://www.zodiacsign.com/images/capricorn.jpg",
+      "signo": "Capricornio",
+      "descripcion": "Fortalezas: Responsable, disciplinado, autocontrol\nDebilidades: Pesimista, frío\nA Capricornio le gusta: La organización, las normas, el control\nA Capricornio le disgusta: La irresponsabilidad, el desorden",
+      "fcolor": "#34495E",
+      "scolor": "#2C3E50"
+    },
+    {
+      "dia_inicio": "1 de enero",
+      "dia_fin": "19 de enero",
+      "fecha_inicio": "01-01",
+      "fecha_fin": "01-19",
+      "img": "https://www.zodiacsign.com/images/capricorn.jpg",
+      "signo": "Capricornio",
+      "descripcion": "Fortalezas: Responsable, disciplinado, autocontrol\nDebilidades: Pesimista, frío\nA Capricornio le gusta: La organización, las normas, el control\nA Capricornio le disgusta: La irresponsabilidad, el desorden",
+      "fcolor": "#34495E",
+      "scolor": "#2C3E50"
+    },
+    {
+      "dia_inicio": "20 de enero",
+      "dia_fin": "18 de febrero",
+      "fecha_inicio": "01-20",
+      "fecha_fin": "02-18",
+      "img": "https://www.zodiacsign.com/images/aquarius.jpg",
+      "signo": "Acuario",
+      "descripcion": "Fortalezas: Progresista, original, independiente\nDebilidades: Intransigente, distante\nA Acuario le gusta: Ayudar a los demás, luchar por causas\nA Acuario le disgusta: Las limitaciones, las personas rígidas",
+      "fcolor": "#6e66af",
+      "scolor": "#93bad3"
+    },
+    {
+      "dia_inicio": "19 de febrero",
+      "dia_fin": "20 de marzo",
+      "fecha_inicio": "02-19",
+      "fecha_fin": "03-20",
+      "img": "https://www.zodiacsign.com/images/pisces.jpg",
+      "signo": "Piscis",
+      "descripcion": "Fortalezas: Compasivo, artístico, intuitivo\nDebilidades: Miedoso, idealista\nA Piscis le gusta: El arte, el romanticismo, la soledad\nA Piscis le disgusta: La crueldad, la crítica",
+      "fcolor": "#85C1E9",
+      "scolor": "#5DADE2"
+    }
+  ]
+}
